@@ -1,0 +1,39 @@
+html{
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 10px;
+}
+
+#main{
+    margin: 30px 8px;
+    padding: 16px;
+    background-color: #EEEEEE;;
+    border-radius: 5px;
+}
+
+#title{
+    text-align: center;
+    color: #333333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#title > h1{
+    margin: 40px 0 0 0;
+    font-size: 40px;
+}
+
+#title > p{
+    font-size: 16px;
+    margin: 16px 0;
+}
+
+#img-div{
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    background-color: #EEEEEE;
+}
+#img-caption{
+    margin: 15px 0 5px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
